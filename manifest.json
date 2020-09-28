@@ -1,0 +1,37 @@
+{
+  "name": "Something Just Like This",
+  "short_name": "SJLT",
+  "icons": [{
+        "src": "img/pwa/sjlt128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      }, {
+        "src": "img/pwa/sjlt152.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      }, {
+        "src": "img/pwa/sjlt144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }, {
+        "src": "img/pwa/sjlt192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "img/pwa/sjlt256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "img/pwa/sjlt512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3b2378",
+  "theme_color": "#3b2378"
+}

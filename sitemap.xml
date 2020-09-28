@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://somethingjustlikethis.com/</loc>
+
+   </url>
+
+   <url>
+
+      <loc>http://somethingjustlikethis.com/portfolio</loc>
+
+   </url>
+
+   <url>
+
+      <loc>http://journal.somethingjustlikethis.com/</loc>
+
+   </url>
+
+   <url>
+
+      <loc>http://somethingjustlikethis.com/about</loc>
+
+   </url>
+
+   <url>
+
+      <loc>http://somethingjustlikethis.com/sayhello</loc>
+
+   </url>
+
+</urlset>
